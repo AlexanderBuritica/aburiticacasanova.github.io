@@ -8,7 +8,7 @@ pagetitle : Alexander Buriticá Casanova
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/profile3.png" class="center" alt="drawing" width="250" height="250"/>
+<img src="./images/avatar.png" class="center" alt="drawing" width="250" height="250"/>
 
 #### Eduard F. Martínez-González
 Economics PhD student at Universidad de los Andes, interested in Agricultural Economics, Technology Adoption and Value Chains.
@@ -19,8 +19,6 @@ Economics PhD student at Universidad de los Andes, interested in Agricultural Ec
 <!-- Correo -->
 <p style="color:black"><img alt="Qries" src="./images/email.png" width=30" height="30"> a.buriticag@uniandes.edu.co </img></p>
 
-<!-- Correo -->
-<p style="color:black"><img alt="Qries" src="./images/email.png" width=30" height="30"> alexander.buritica.casanova@gmail.com </img></p>
 
 <!-- Twitter -->
  <a href="https://twitter.com/emartigo" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">  @AlexanderBuri</a> 
@@ -52,6 +50,16 @@ You can find my CV <a href="https://eduard-martinez.github.io/cv/CV_ABC.pdf">her
   + <p><strong style="color:black;font-size:16px;">Research Assistant: </strong>  International Center for Tropical Agriculture (CIAT), Palmira-Colombia. June 2013 - August 2016 </p>
 
  
+## Interests
+
++ Microeconomics
+
++ Agricultural Economics
+
++ Development Economics
+
++ Agricultural Value Chains
+
 
 
 ## Contac info
