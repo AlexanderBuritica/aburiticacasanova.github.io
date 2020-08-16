@@ -35,9 +35,10 @@ Economics PhD student at Universidad de los Andes, interested in Agricultural Ec
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-## About me
+## Biography
 
 Alexander Buritica is PhD student in Department of Economics at the Universidad de los Andes. My research centers on the interaction between agricultural value chains, productivity and technology adoption at both firms and farm producers levels.
+
 
 You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">here</a>.
 
@@ -65,7 +66,7 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 ## Contac info
 
 <!-- Correo -->
-<span id="person-email" itemprop="email"><a href="a.buritica@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/email.png" width=30" height="30">  a.buritica@uniandes.edu.co</a></span>
+<span id="person-email" itemprop="email"><a href="a.buritica@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=30" height="30">  a.buritica@uniandes.edu.co</a></span>
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Universidad+de+los+Andes/@4.6014634,-74.0683221,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f99a4a124b335:0x8e9f4683d1db9cb!8m2!3d4.6014581!4d-74.0661334" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
