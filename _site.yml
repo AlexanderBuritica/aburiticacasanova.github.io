@@ -42,6 +42,6 @@ output:
       html_document:
               theme: cosmo
               highlight: textmate
-              css: css/style.css      
+              css: css/style2.css      
                    
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
