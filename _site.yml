@@ -19,7 +19,15 @@ navbar:
       href: highlights.html
     - text: "Contact"
       href: Contact.html
-
+right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:a.buritica@uniandes.edu.co                    # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/AlexanderBuritica       # CHANGE HERE
+      
+      
     - text: "Blog"
       # Menu bar
       menu:
@@ -40,6 +48,7 @@ output:
       html_document:
                     theme: cosmo
                     mathjax: "http://example.com/MathJax.js"
-                    highlight: haddock
+                    #highlight: haddock
+                    highlight: textmate
                     css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
