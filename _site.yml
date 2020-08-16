@@ -14,7 +14,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: https://AlexanderBuritica.github.io/cv/ABC_CV.pdf
+      href: https://alexanderburitica.github.io/cv/ABC_CV.pdf
     - text: "highlights"
       href: highlights.html
     - text: "Contact"
@@ -25,21 +25,21 @@ navbar:
       menu:
         - text: "Heading 1"
         - text: "Page A"
-          href: https://AlexanderBuritica.github.io/blog/page_a.html
+          href: https://alexanderburitica.github.io/blog/page_a.html
         - text: "Page B"
-          href: https://AlexanderBuritica.github.io/blog/page_b.html
+          href: https://alexanderburitica.github.io/blog/page_b.html
         - text: "---------"
         - text: "Heading 2"
         - text: "Page C"
-          href: https://AlexanderBuritica.github.io/blog/page_c.html
+          href: https://alexanderburitica.github.io/blog/page_c.html
         - text: "Page D"
-          href: https://AlexanderBuritica.github.io/blog/page_d.html
+          href: https://alexanderburitica.github.io/blog/page_d.html
 
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
-                    theme: flatly
-                    #mathjax: "http://example.com/MathJax.js"
+                    theme: cosmo
+                    mathjax: "http://example.com/MathJax.js"
                     highlight: haddock
                     css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
