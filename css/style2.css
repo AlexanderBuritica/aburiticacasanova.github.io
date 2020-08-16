@@ -1,3 +1,10 @@
-blockquote {
-  font-style: italic
+body {
+ font-family: 'Source Sans
+Pro', Helvetica, sans-serif;
+ background: #121212;
+ color: #999;
+ padding: 20px;
+}
+tr {
+ vertical-align: top;
 }

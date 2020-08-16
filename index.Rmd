@@ -4,42 +4,25 @@ pagetitle : Alexander Buriticá Casanova
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-<!------------- Panel de la izquierda ------------->
-<div class="col-sm-4">
-
-<!-- Foto completa -->
-<img src="./images/profile3.png" class="center" alt="drawing" style="width:75%">
-
-# Alexander Buriticá Casanova
-Economics PhD student at Universidad de los Andes.
-
-<!-- Location -->
-<a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
-
-<!-- Twitter -->
- <a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">  @AlexanderBuri</a> 
-
-<!-- GitHub -->
-<a href="https://github.com/AlexanderBuritica" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  AlexanderBuritica</a>
-
-</div>
-<!------------- Fin panel de la izquierda ------------->
-
 
 <!------------- Panel de la derecha ------------->
 <div class="col-sm-8">
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-## Biography
+# Biography
 
 Alexander Buritica is PhD student in Department of Economics at the Universidad de los Andes. My research centers on the interaction between agricultural value chains, productivity and technology adoption at both firms and farm producers levels.
 
 
 You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">here</a>.
 
+<p>  </p>
 
- 
+<div class="row featurette">
+
+<div class="col-12 col-sm-4">
+
 ## Interests
 
 + Microeconomics
@@ -50,18 +33,62 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 
 + Agricultural Value Chains
 
+</div>
 
+<div class="col-12 col-sm-4">
 
-## Contac info
+## Interests
++ Microeconomics
 
-<!-- Correo -->
-<span id="person-email" itemprop="email"><a href="a.buritica@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=30" height="30">  a.buritica@uniandes.edu.co</a></span>
++ Agricultural Economics
 
-<!-- Location -->
-<a href="https://www.google.com/maps/place/Universidad+de+los+Andes/@4.6014634,-74.0683221,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f99a4a124b335:0x8e9f4683d1db9cb!8m2!3d4.6014581!4d-74.0661334" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
++ Development Economics
 
-<!-- Tel -->
-<img alt="Qries" src="./images/tel.png" width=30" height="30"> (+571) 3394949 Ext: 2430 </img>
++ Agricultural Value Chains
 
-
+</div>
+ 
 </div> <!--- FIn del panel de la derecha --->
+
+
+<!------------- Panel de la derecha ------------->
+<div class="col-3 col-sm-8">
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+<!-- Foto completa -->
+<img src="./images/profile3.png" class="center" alt="drawing" width="250" height="250"/>
+
+## **Alexander Buriticá Casanova**
+Economics PhD Student
+
+Universidad de los Andes
+
+<p>  </p>
+
+<div class="row featurette">
+ 
+<!-- Twitter -->
+ <div class="col-10 col-sm-3">
+ <a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">   
+ </div>
+ 
+<!-- GitHub -->
+<div class="col-10 col-sm-3">
+ <a href="https://github.com/AlexanderBuritica" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  
+  </div>
+
+<!-- GoogleScholar -->
+<div class="col-10 col-sm-3">
+ <a href="https://scholar.google.es/citations?user=43WzRV4AAAAJ&hl=es" style="color:black;"> <img alt="Qries" src="./images/google_sch.png" width=30" height="30">  
+  </div>
+
+
+<!-- Linkedin -->
+<div class="col-10 col-sm-3">
+ <a href="https://www.linkedin.com/in/alexander-buritica-casanova-738827155/" style="color:black;"> <img alt="Qries" src="./images/linked.png" width=30" height="30">  
+  </div>
+
+
+</div>
+<!------------- Fin panel de la izquierda ------------->
