@@ -20,8 +20,6 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/AlexanderBuritica       # CHANGE HERE
-      
-      
     - text: "Blog"
       # Menu bar
       menu:
