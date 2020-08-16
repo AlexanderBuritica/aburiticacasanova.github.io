@@ -40,5 +40,5 @@ output:
       html_document:
               theme: cerulean
               highlight: textmate
-              css: css/style2.css
+              css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
