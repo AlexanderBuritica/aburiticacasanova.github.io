@@ -38,7 +38,7 @@ navbar:
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
-                    theme: cerulean
+                    theme: flatly
                     mathjax: "http://example.com/MathJax.js"
                     highlight: haddock
                     css: css/style.css
