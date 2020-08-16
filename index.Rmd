@@ -21,7 +21,7 @@ Economics PhD student at Universidad de los Andes.
 
 
 <!-- Twitter -->
- <a href="https://twitter.com/emartigo" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">  @AlexanderBuri</a> 
+ <a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">  @AlexanderBuri</a> 
 
 <!-- GitHub -->
 <a href="https://github.com/AlexanderBuritica" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  AlexanderBuritica</a>
