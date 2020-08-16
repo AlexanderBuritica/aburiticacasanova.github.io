@@ -5,7 +5,8 @@ output_dir: "."
  
 # Navegation bar
 navbar:
-  title: "Alexander Buriticá Casanova"  
+  title: "Alexander Buriticá Casanova" 
+  icon: fa-home
   type: inverse
   right:
     - text: "Home"
@@ -17,9 +18,6 @@ navbar:
       href: https://alexanderburitica.github.io/cv/ABC_CV.pdf
     - text: "highlights"
       href: highlights.html
-    - text: "Contact"
-      icon: fa-envelope-o
-      href: Contact.html
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/AlexanderBuritica       # CHANGE HERE
