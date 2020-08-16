@@ -42,6 +42,5 @@ output:
       html_document:
               theme: flatly
               highlight: textmate
-              css: css/style2.css      
-                   
+
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
