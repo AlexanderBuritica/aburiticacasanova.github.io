@@ -45,9 +45,9 @@ navbar:
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
-                    theme: cosmo
-                    mathjax: "http://example.com/MathJax.js"
+                    theme: yeti
+                    #mathjax: "http://example.com/MathJax.js"
                     #highlight: haddock
                     highlight: textmate
-                    css: css/style2.css
+                    css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
