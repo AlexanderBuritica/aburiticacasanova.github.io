@@ -39,7 +39,7 @@ navbar:
 output:
       html_document:
                     theme: flatly
-                    mathjax: "http://example.com/MathJax.js"
+                    #mathjax: "http://example.com/MathJax.js"
                     highlight: haddock
                     css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()

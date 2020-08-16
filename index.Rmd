@@ -8,9 +8,9 @@ pagetitle : Alexander Buriticá Casanova
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/avatar.png" class="center" alt="drawing" width="250" height="250"/>
+<img src="./images/profile3.png" class="center" alt="drawing" width="250" height="250"/>
 
-#### Eduard F. Martínez-González
+#### Alexander Buriticá Casanova
 Economics PhD student at Universidad de los Andes, interested in Agricultural Economics, Technology Adoption and Value Chains.
 
 <!-- Location -->
