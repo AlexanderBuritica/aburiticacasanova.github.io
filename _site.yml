@@ -40,7 +40,7 @@ navbar:
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
-              theme: cosmo
+              theme: flatly
               highlight: textmate
               css: css/style2.css      
                    
