@@ -18,10 +18,8 @@ navbar:
     - text: "highlights"
       href: highlights.html
     - text: "Contact"
-      href: Contact.html
-    - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:a.buritica@uniandes.edu.co                    # CHANGE HERE 
+      href: Contact.html
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/AlexanderBuritica       # CHANGE HERE
@@ -45,6 +43,6 @@ navbar:
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
-                   theme: flatly
+                   theme: cosmo
                    
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
