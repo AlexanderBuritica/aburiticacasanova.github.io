@@ -38,5 +38,6 @@ navbar:
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
-              theme: paper
+          theme: flatly
+          css: style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
