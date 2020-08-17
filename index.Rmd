@@ -2,93 +2,93 @@
 pagetitle : Alexander Buriticá Casanova
 ---
 
+
 <br>  </br> <!--- Agrega lineas en blanco --->
+
+
+
 
 
 <!------------- Panel de la derecha ------------->
-<div class="col-sm-8">
+<div class="col-sm-6">
 
-<br>  </br> <!--- Agrega lineas en blanco --->
 
-# Biography
+# **Biography**
 
 Alexander Buritica is PhD student in Department of Economics at the Universidad de los Andes. My research centers on the interaction between agricultural value chains, productivity and technology adoption at both firms and farm producers levels.
 
 
 You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">here</a>.
 
+<br>  </br> <!--- Agrega lineas en blanco --->
+
 <p>  </p>
 
 <div class="row featurette">
 
-<div class="col-12 col-sm-4">
 
-## Interests
+<div class="col-sm-4">
 
-+ Microeconomics
+###  Interests
 
-+ Agricultural Economics
-
-+ Development Economics
-
-+ Agricultural Value Chains
+<p><i class="fas fa-chevron-circle-right"></i> Microeconomics</p> 
+<p><i class="fas fa-chevron-circle-right"></i> Agricultural Economics</p> 
+<p><i class="fas fa-chevron-circle-right"></i> Development Economics</p> 
+<p><i class="fas fa-chevron-circle-right"></i> Agricultural Value Chains</p> 
 
 </div>
 
-<div class="col-12 col-sm-4">
 
-## Interests
-+ Microeconomics
+<div class="col-sm-5">
 
-+ Agricultural Economics
+### Education
 
-+ Development Economics
+<p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  Phd in Economics, Espected Fall 2021.</strong></i> Universidad de los Andes </p> 
 
-+ Agricultural Value Chains
+<p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  BSc in Economics, 2013.</strong></i> Universidad del Valle</p>
 
 </div>
- 
+
+
 </div> <!--- FIn del panel de la derecha --->
 
+</div> <!--- FIn del panel de la derecha --->
 
-<!------------- Panel de la derecha ------------->
-<div class="col-3 col-sm-8">
-
-<br>  </br> <!--- Agrega lineas en blanco --->
+<!------------- Panel de la izquierda ------------->
+<div class="col-sm-6">
 
 <!-- Foto completa -->
-<img src="./images/profile3.png" class="center" alt="drawing" width="250" height="250"/>
+<img src="./images/profile3.png" style="width:100%; border:1px solid; margin-right: 1px" />
 
-## **Alexander Buriticá Casanova**
-Economics PhD Student
+### **Alexander Buriticá Casanova** 
+<p>Economics PhD Student</p>
+<p>Universidad de los Andes</p>
 
-Universidad de los Andes
-
-<p>  </p>
 
 <div class="row featurette">
  
 <!-- Twitter -->
- <div class="col-10 col-sm-3">
- <a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">   
- </div>
+<div class="col-3 col-sm-2">
+<a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30"> </div> 
+
  
 <!-- GitHub -->
-<div class="col-10 col-sm-3">
- <a href="https://github.com/AlexanderBuritica" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  
-  </div>
+<div class="col-6 col-sm-2">
+<a href="https://github.com/AlexanderBuritica" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30"></div>
+
 
 <!-- GoogleScholar -->
-<div class="col-10 col-sm-3">
- <a href="https://scholar.google.es/citations?user=43WzRV4AAAAJ&hl=es" style="color:black;"> <img alt="Qries" src="./images/google_sch.png" width=30" height="30">  
-  </div>
+<div class="col-3 col-sm-2">
+<a href="https://scholar.google.es/citations?user=43WzRV4AAAAJ&hl=es" style="color:black;"> <img alt="Qries" src="./images/google_sch.png" width=30" height="30"></div>
 
 
 <!-- Linkedin -->
-<div class="col-10 col-sm-3">
- <a href="https://www.linkedin.com/in/alexander-buritica-casanova-738827155/" style="color:black;"> <img alt="Qries" src="./images/linked.png" width=30" height="30">  
-  </div>
+<div class="col-3 col-sm-2">
+<a href="https://www.linkedin.com/in/alexander-buritica-casanova-738827155/" style="color:black;"> <img alt="Qries" src="./images/linked.png" width=30" height="30"></div>
 
 
 </div>
-<!------------- Fin panel de la izquierda ------------->
+
+</div> <!--- FIn del panel de la derecha --->
+
+
