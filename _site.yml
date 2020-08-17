@@ -39,5 +39,4 @@ navbar:
 output:
       html_document:
               theme: paper
-              css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
