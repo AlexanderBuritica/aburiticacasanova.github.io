@@ -2,12 +2,7 @@
 pagetitle : Alexander Buriticá Casanova
 ---
 
-
 <br>  </br> <!--- Agrega lineas en blanco --->
-
-
-
-
 
 <!------------- Panel de la derecha ------------->
 <div class="col-sm-6">
@@ -20,14 +15,13 @@ Alexander Buritica is PhD student in Department of Economics at the Universidad 
 
 You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">here</a>.
 
-<br>  </br> <!--- Agrega lineas en blanco --->
 
 <p>  </p>
 
 <div class="row featurette">
 
 
-<div class="col-sm-4">
+<div class="col-sm-5">
 
 ###  Interests
 
@@ -58,7 +52,7 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 <div class="col-sm-6">
 
 <!-- Foto completa -->
-<img src="./images/profile3.png" style="width:100%; border:1px solid; margin-right: 1px" />
+<img src="./images/profile3.png" style="width:150%; border:1px solid; margin-right: 0.5px" />
 
 ### **Alexander Buriticá Casanova** 
 <p>Economics PhD Student</p>
