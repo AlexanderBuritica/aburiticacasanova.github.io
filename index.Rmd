@@ -73,7 +73,7 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 
  
 <!-- GitHub -->
-<div class="col-6 col-sm-2">
+<div class="col-3 col-sm-2">
 <a href="https://github.com/AlexanderBuritica" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30"></div>
 
 
