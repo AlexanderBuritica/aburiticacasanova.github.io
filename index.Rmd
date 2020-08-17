@@ -79,7 +79,7 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 
 <!-- GoogleScholar -->
 <div class="col-3 col-sm-2">
-<a href="https://scholar.google.es/citations?user=43WzRV4AAAAJ&hl=es" style="color:black;"><img alt="Qries" src="./images/google_sch.png" width=30" height="30"></div>
+<a href="https://scholar.google.es/citations?user=43WzRV4AAAAJ&hl=es" style="color:black;"><i class="fab fa-google fa-2x"></i></div>
 
 
 <!-- Linkedin -->

@@ -39,5 +39,5 @@ navbar:
 output:
       html_document:
           theme: flatly
-          css: style.css
+          css: css/style3.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()
