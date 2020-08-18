@@ -1,6 +1,5 @@
 ---
 pagetitle : Alexander Buriticá
-bibliography: research/research.bib
 ---
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -20,7 +19,7 @@ bibliography: research/research.bib
 ### <i class="fas fa-chevron-circle-right"></i>  **Trees, cows and cheese: A win-win-win strategy?**
 
 
-<img src="images/mecanismo_grafica.png" style="width:50%" align="left"/>
+<img src="images/vaca.jpg" style="width:50%" align="left"/>
 
 __Abstract:__
 
@@ -36,7 +35,7 @@ of medium and high intensity level treatments.</p>
 
 <p>  </p> <!--- Agrega una linea en blanco --->
 
-<img src="images/cafe.png" style="width:50%" align="left"/>
+<img src="images/cafe.png" style="width:45%" align="left"/>
 
 __Abstract:__
 
@@ -56,7 +55,7 @@ __Abstract:__
 <p><i class="fas fa-user-circle"></i>  [Augusto Castro-Nunez](https://ciat.cgiar.org/cop25/augusto-castro-nunez/), Ole Mertz, [Alexander Buritica Casanova](http://alexanderburitica.github.io), Chrystian C. Sosa, Stephanie T. Lee. **May (2017)**</p>
 
 
-<img src="images/conflicto.jpg" style="width:30%" align="left"/>
+<img src="images/conflicto3.png" style="width:30%" align="left"/>
 
 __Abstract:__
 
