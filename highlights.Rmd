@@ -29,7 +29,7 @@ pagetitle : Alexander Buriticá
 </div>
 
 <center>
-<img src="./images/colciencias.png" width = "25%"/>
+<img src="./images/colciencias.jpg" width = "45%"/>
 </center>
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -38,4 +38,4 @@ pagetitle : Alexander Buriticá
 
 ### 2.1 **INFER Workshop on Economic Development thinking the environment**. May 2019, Coimbra, Portugal.
 
-<img src="./images/infer_logo.png" width = "25%"/>
+<img src="./images/infer_logo.jpg" width = "25%"/>
