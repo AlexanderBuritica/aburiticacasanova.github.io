@@ -21,7 +21,7 @@ bibliography: research/research.bib
 
 <p>  </p> <!--- Agrega una linea en blanco --->
 
-<img src="images/mecanismo_grafica.png" style="width:80%" />
+<img src="images/mecanismo_grafica.png" style="width:60%" />
 
 __Abstract:__
 
