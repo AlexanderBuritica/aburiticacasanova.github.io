@@ -14,7 +14,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Highlights"
-      href: highlights.html
+      href: Highlights.html
     - text: "Gallery-Field Work"
       href: fieldwork.html
     - text: "CV"

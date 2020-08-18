@@ -1,9 +1,9 @@
 ---
-pagetitle : Alexander Buriticá 
+pagetitle : Alexander Buriticá
 ---
 
-<br>  </br> <!--- Agrega lineas en blanco --->
 
+<br>  </br> <!--- Agrega lineas en blanco --->
 
 # 1. Fellowship and Awards
 
@@ -32,16 +32,10 @@ pagetitle : Alexander Buriticá
 <img src="./images/colciencias.png" width = "50%"/>
 </center>
 
-
-
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-
 # 2. Conference Presentation
-
 
 ### 2.1 **INFER Workshop on Economic Development thinking the environment**. May 2019, Coimbra, Portugal.
 
 <img src="./images/infer_logo.png" width = "40%"/>
-
-
