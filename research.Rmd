@@ -20,7 +20,7 @@ bibliography: research/research.bib
 ### <i class="fas fa-chevron-circle-right"></i>  **Trees, cows and cheese: A win-win-win strategy?**
 
 
-<img src="images/mecanismo_grafica.png" style="width:60%" />
+<img src="images/mecanismo_grafica.png" style="width:60%"/>
 
 __Abstract:__
 
