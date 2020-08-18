@@ -13,9 +13,9 @@ pagetitle : Alexander Buriticá
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-+ Coffee and Climate Change.
++ **Coffee and Climate Change.**
 
-+ Cattle raising and Deforestation in Colombia.
++ **Cattle raising and Deforestation in Colombia.**
 
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -23,9 +23,15 @@ pagetitle : Alexander Buriticá
 <br>  </br> <!--- Agrega lineas en blanco --->
 
 
-
+<center>
 ![](../images/myway.gif)
+</center>
 
+
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+<br>  </br> <!--- Agrega lineas en blanco --->
 
 
 
