@@ -5,7 +5,7 @@ output_dir: "."
  
 # Navegation bar
 navbar:
-  title: "Alexander Buriticá Casanova" 
+  title: "<p><img id=\"logo\" style=\"width: 30px;\" src=\"images/avatarX.png\" /> Alexander Buriticá</p>" 
   type: inverse
   right:
     - text: "Home"
@@ -13,32 +13,26 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+    - text: "Highlights"
+      href: highlights.html
+    - text: "Gallery-Field Work"
+      href: fieldwork.html
     - text: "CV"
       href: https://alexanderburitica.github.io/cv/ABC_CV.pdf
-    - text: "highlights"
-      href: highlights.html
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/AlexanderBuritica       # CHANGE HERE
     - text: "Blog"
-      # Menu bar
+     # Menu bar
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: https://alexanderburitica.github.io/blog/page_a.html
-        - text: "Page B"
-          href: https://alexanderburitica.github.io/blog/page_b.html
-        - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
-          href: https://alexanderburitica.github.io/blog/page_c.html
-        - text: "Page D"
-          href: https://alexanderburitica.github.io/blog/page_d.html
+        - text: "Academics"
+        - text: "Blog1"
+          href: blog/blog1.html
 
+# Theme https://bookdown.org/yihui/rmarkdown/html-document.html
+
+      
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:
+          theme: readable
           mathjax: "http://example.com/MathJax.js"
-          highlight: haddock
-          css: css/style6.css
+          highlight: tango
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()

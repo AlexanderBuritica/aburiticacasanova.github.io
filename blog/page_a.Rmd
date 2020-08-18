@@ -1,5 +1,14 @@
 ---
-title: "My Website"
+pagetitle : Alexander Buriticá 
 ---
 
-Panel
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+
+
+# Coming soon!  
+
+
++ Coffee and Climate Change.
+
++ Cattle raising and Deforestation in Colombia.

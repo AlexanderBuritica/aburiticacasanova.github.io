@@ -1,5 +1,5 @@
 ---
-pagetitle : Alexander Buriticá Casanova
+pagetitle : Alexander Buriticá
 ---
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -10,10 +10,14 @@ pagetitle : Alexander Buriticá Casanova
 
 # **Biography**
 
-Alexander Buritica is PhD student in Department of Economics at the Universidad de los Andes. My research centers on the interaction between agricultural value chains, productivity and technology adoption at both firms and farm producers levels.
+<div align="justify">
+
+Alexander Buriticá is PhD student in Department of Economics at the Universidad de los Andes. My research centers on the interaction between agricultural value chains, productivity and technology adoption at both firms and farm producers levels.
 
 
 You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">here</a>.
+
+</div>
 
 
 <p>  </p>
@@ -33,11 +37,11 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 </div>
 
 
-<div class="col-sm-5">
+<div class="col-sm-6">
 
 ### Education
 
-<p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  Phd in Economics, Espected Fall 2021.</strong></i> Universidad de los Andes </p> 
+<p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  Phd in Economics, Expected Fall 2021.</strong></i> Universidad de los Andes </p> 
 
 <p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  BSc in Economics, 2013.</strong></i> Universidad del Valle</p>
 
@@ -52,18 +56,28 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 <div class="col-sm-6">
 
 <!-- Foto completa -->
-<img src="./images/profile3.png" style="width:150%; border:1px solid; margin-right: 0.5px" />
+<img src="./images/profile3.png" style="width:260%" />
 
-### **Alexander Buriticá Casanova** 
+
+<div align="center">
+
+### **Alexander Buriticá Casanova**
+
+</div>
+
+<div align="center">
+
 <p>Economics PhD Student</p>
-<p>Universidad de los Andes</p>
+<a href="https://economia.uniandes.edu.co/">Universidad de los Andes</a>
+
+</div>
 
 
 <div class="row featurette">
- 
+
 <!-- Twitter -->
 <div class="col-3 col-sm-2">
-<a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30"> </div> 
+<a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=35" height="35"> </div> 
 
  
 <!-- GitHub -->
@@ -79,6 +93,14 @@ You can find my CV <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">h
 <!-- Linkedin -->
 <div class="col-3 col-sm-2">
 <a href="https://www.linkedin.com/in/alexander-buritica-casanova-738827155/" style="color:black;"> <img alt="Qries" src="./images/linked.png" width=30" height="30"></div>
+
+<!-- Research Gates -->
+<div class="col-3 col-sm-2">
+<a href="https://www.researchgate.net/profile/Alexander_Buritica_Casanova" style="color:black;"><i class="fab fa-researchgate fa-2x"></i> </div>
+
+<!-- Skype -->
+<div class="col-3 col-sm-2">
+<a href="skype:alexander.buritica.casanova" style="color:black;"><i class="fab fa-skype fa-2x"></i></div>
 
 
 </div>

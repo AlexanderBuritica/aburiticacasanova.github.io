@@ -1,0 +1,56 @@
+---
+pagetitle : Alexander Buriticá 
+---
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+
+
+<!------------- Panel de la izquierda ------------->
+<div class="col-sm-9">
+
+# Coming soon!  
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
++ Coffee and Climate Change.
+
++ Cattle raising and Deforestation in Colombia.
+
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+
+
+![](../images/myway.gif)
+
+
+
+
+
+
+
+
+
+</div>
+
+<!------------- Panel de la derecha ------------->
+<div class="col-sm-3">
+
+#### Alexander Buriticá Casanova
+
+<!-- Link -->
+<a href="https://alexanderburitica.github.io" style="color:black;font-size:12px;"><img alt="Qries" src="../images/link2.png" width=20" height="20">  alexanderburitica.github.io </a> 
+
+<!-- Twitter -->
+ <a href="https://twitter.com/AlexanderBuri" style="color:black;font-size:12px;"> <img alt="Qries" src="../images/twitter.jpg" width=20" height="20">  @AlexanderBuri</a> 
+
+<!-- GitHub -->
+<a href="https://github.com/AlexanderBuritica" style="color:black;font-size:12px;"> <img alt="Qries" src="../images/github.png" width=20" height="20">  alexanderburitica</a>
+</div>
+<!------------- Panel de la derecha ------------->
+
+
+

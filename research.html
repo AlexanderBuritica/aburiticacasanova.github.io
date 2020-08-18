@@ -11,11 +11,11 @@
 
 
 
-<title>Eduard F. Martínez-González</title>
+<title>Alexander Buriticá</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -53,7 +53,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css\style6.css" type="text/css" />
 
 
 
@@ -88,33 +87,33 @@ summary {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 66px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .dropdown-submenu {
   position: relative;
@@ -253,7 +252,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Alexander Buriticá Casanova</a>
+      <a class="navbar-brand" href="index.html"><p><img id="logo" style="width: 30px;" src="images/avatarX.PNG" /> Alexander Buriticá</p></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -271,17 +270,13 @@ $(document).ready(function () {
   <a href="research.html">Research</a>
 </li>
 <li>
+  <a href="highlights.html">Highlights</a>
+</li>
+<li>
+  <a href="fieldwork.html">Gallery-Field Work</a>
+</li>
+<li>
   <a href="https://alexanderburitica.github.io/cv/ABC_CV.pdf">CV</a>
-</li>
-<li>
-  <a href="highlights.html">highlights</a>
-</li>
-<li>
-  <a href="https://github.com/AlexanderBuritica">
-    <span class="fa fa-github"></span>
-     
-    GitHub
-  </a>
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
@@ -290,20 +285,9 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li class="dropdown-header">Heading 1</li>
+    <li class="dropdown-header">Academics</li>
     <li>
-      <a href="https://alexanderburitica.github.io/blog/page_a.html">Page A</a>
-    </li>
-    <li>
-      <a href="https://alexanderburitica.github.io/blog/page_b.html">Page B</a>
-    </li>
-    <li class="divider"></li>
-    <li class="dropdown-header">Heading 2</li>
-    <li>
-      <a href="https://alexanderburitica.github.io/blog/page_c.html">Page C</a>
-    </li>
-    <li>
-      <a href="https://alexanderburitica.github.io/blog/page_d.html">Page D</a>
+      <a href="blog/blog1.html">Blog1</a>
     </li>
   </ul>
 </li>
@@ -321,66 +305,108 @@ $(document).ready(function () {
 
 
 <p><br> </br> <!--- Agrega lineas en blanco ---></p>
-<div id="working-papers" class="section level1">
-<h1>Working papers</h1>
+<!------------- Panel de la izquierda ------------->
+<div class="col-sm-9">
+<h1 id="work-in-progress">Work in Progress</h1>
 <p>
 </p>
 <p><!--- Agrega una linea en blanco ---></p>
-<!------------- Panel de la izquierda ------------->
-<div class="col-sm-9">
-<!--- Documento 4 --->
-<ul>
-<li><strong style="color:black;font-size:22px;"> Motorcycle restrictions and their effects on crime in Colombia </strong> <a href="https://eduard-martinez.github.io/research/motorcycle_restrictions/motorcycle_restrictions.pdf">[PDF]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3659686">[SSNR]</a> (with <a href="http://michael-weintraub.squarespace.com">Michael Weintraub</a> and <a href="https://investiga.banrep.gov.co/es/profile/76">Leonardo Bonilla</a>)</li>
-</ul>
-<p align="justify">
-<strong>Abstrac:</strong> Although motorcycle restrictions have been adopted to reduce crime in more than 25 Colombian cities, no empirical evidence exists to demonstrate their effectiveness. This document evalutes the impact of six of these restrictions. To identify their causal effects, we estimate difference-in-differences models that exploit spatial and temporal variation in their implementation and georeferenced crime data. We find neither large nor lasting effects of these measures on crime. Given the high costs of assuring compliance with these measures and the costs they impose on citizens, local authorities should seek out other public policy alternatives to improve citizen security.
+<h3 id="trees-cows-and-cheese-a-win-win-win-strategy"><i class="fas fa-chevron-circle-right"></i> <strong>Trees, cows and cheese: A win-win-win strategy?</strong></h3>
+<p>
 </p>
-<!--- Documento 4 --->
-<ul>
-<li><strong style="color:black;font-size:22px;">Payroll taxes, wage rigidities and youth unemployment: Evidence from colombian labor market</strong> <a href="https://eduard-martinez.github.io/research/youth_unemployment/youth_unemployment.pdf">[PDF]</a> (with <a href="http://danilo-aristizabal.github.io">Danilo Aristizabal</a>)</li>
-</ul>
-<p align="justify">
-<strong>Abstrac:</strong> This paper studies the effect on youth employment of a payroll tax cut for new hires young workers under the age of 28 in Colombia. We exploit differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the distance, in the city in which the individual lives, from the median salary by educational level with respect to the minimum wage. We have two different treatment groups and use a difference-in-difference model. The effect of reduced payroll taxes is asymmetric for youth who earn below and above the minimum wage. Reducing payroll taxes increased youth labor participation, rather than reducing informality.
+<p><!--- Agrega una linea en blanco ---></p>
+<p><img src="images/mecanismo_grafica.png" style="width:80%" /></p>
+<p><strong>Abstract:</strong></p>
+<div align="justify">
+<p>
+In this article, I study the effect of reducing capital and knowledge constraints on SPS adoption in cattle farms of Colombia.To this end, I analyze an intervention carried out with cattle farmers in Caquetá, between 2018 and 2020. I investigate the effect of a technological kit, consisting of two parts: i) inputs and ii) technical assistance, on sustainable livestock practices adoption and livestock productivity. Taking advantage of the fact that there are differences in the intensity level of the kit, using a methodology of differences in differences, I use the low intensity group as a control group to know the additional effect of medium and high intensity level treatments.
 </p>
-<!--- Documento 4 --->
-<ul>
-<li><strong style="color:black;font-size:22px;"> Economics Shocks and Crime: Evidenmce From Colombia </strong> <a href="https://eduard-martinez.github.io/research/jmp/economics_shocks.pdf">[PDF]</a></li>
-</ul>
-<p align="justify">
-<strong>Abstrac:</strong> This paper studies the effect of a negative economic shock on crime. I collect criminal records for 165,000 users of an informal financial sector firm that was closed in Colombia at the end of 2008. I exploit the exogenous variation produced by the intervention in users who had deposits with an expiration date in the days close to the firm’s closing date. The results suggest an increase in the number of legal proceedings for those suffering the negative economic shock, but this effect is concentrated only in those on the right-hand side of the distribution of unrecovered investments.
+</div>
+<h3 id="access-to-high-quality-coffee-markets-possible-for-all"><i class="fas fa-chevron-circle-right"></i> <strong>Access to High Quality Coffee Markets: Possible for All?</strong></h3>
+<p>
 </p>
-<!--- Documento 4 --->
-<ul>
-<li><strong style="color:black;font-size:22px;">School Education for Inclusion and Social Transformation in the Colombian Caribbean</strong> <a href="https://eduard-martinez.github.io/research/caribbean_education/caribbean_education.pdf">[PDF]</a> <a href="https://www.banrep.gov.co/es/publicaciones/documento-de-trabajo-economia-regional-y-urbana-263">[DTSER-BANREP]</a> (with <a href="https://investiga.banrep.gov.co/es/profile/76">Leonardo Bonilla</a>)</li>
-</ul>
-<p align="justify">
-<strong>Abstrac:</strong> The Caribbean Region of Colombia is particularly behind in terms of school coverage and quality. This paper proposes a set of policies that provide a big push to the public education system and allow closing the gap by 2030. Policies are organized into four categories: Preschool education, full-day schooling, teacher training and institutional capacity. The total cost of the intervention is estimated at 6,274 million dollars over 12 years, of which 2,114 correspond to investments and 4,160 to the additional recurrent expenditures of the education system.
+<p><!--- Agrega una linea en blanco ---></p>
+<p><img src="images/cafe.png" style="width:50%" align="left"/></p>
+<p><strong>Abstract:</strong></p>
+<div align="justify">
+<p>
+Access to high-value markets can improve farmers’ well-being, provided that these markets remunerate quality. Classical economic theory, under a scenario of perfect information, holds that the price received by producers reflects the quality of their product. Therefore, it implies that produce-quality determines a farmer’s access to such high-value markets. However, in practice, producers or buyers cannot readily evaluate a product’s quality. In this case study, we explore the effect of mitigating such asymmetry of information (on product quality) on access to high-value markets. Specifically, we consider the effect of quantifying and certifying coffee-quality on the price received by small coffee growers in eight municipalities of Colombia’s Nariño department, between 2012 and 2016. Using an econometric methodology of ‘differences in differences’, we find that providing small coffee-growers with technical and commercial advice, alongside a ‘coffee cup test’, increases, on average, their sale price of coffee by $2,710 (COP/kg), in comparison with coffee farmers who did not receive this support. Additionally, we demonstrate that this effect is heterogeneous for the coffee farmers who received the treatment, due to the varying agroecological conditions of the different farms.
 </p>
+</div>
+<h1 id="peer-reviewed-journal-publication">Peer-Reviewed Journal Publication</h1>
+<h3 id="land-related-grievances-shape-tropical-forest-cover-in-areas-affected-by-armed-conflict"><i class="fas fa-chevron-circle-right"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0143622817301662"><strong>Land related grievances shape tropical forest-cover in areas affected by armed-conflict</strong></a></h3>
+<p>
+<i class="fas fa-user-circle"></i> <a href="https://ciat.cgiar.org/cop25/augusto-castro-nunez/">Augusto Castro-Nunez</a>, Ole Mertz, <a href="http://alexanderburitica.github.io">Alexander Buritica Casanova</a>, Chrystian C. Sosa, Stephanie T. Lee. <strong>May (2017)</strong>
+</p>
+<p><img src="images/conflicto.jpg" style="width:40%" align="left"/></p>
+<p><strong>Abstract:</strong></p>
+<div align="justify">
+<p>
+Armed-conflicts often occur in tropical areas considered to be of high ‘conservation-value’, termed as such for their biodiversity or carbon-storage functions. Despite this important overlap, few studies have assessed how forest-biomass is affected by armed-conflicts. Thus, in this paper we develop a multinomial logit model to examine how outcomes of the interactions between carbon-storage, armed-conflict and deforestation rates are linked to social, institutional and economic factors. We use Colombia as a case study because of its protracted armed-conflict, high forest-cover, sustained deforestation rates and ongoing peace processes. Our empirical results show that the impacts of armed-conflicts on forest-cover are connected to specific socio-economical processes, such as unequal land distribution and landgrabbing, which typically occurs as part of ‘agricultural colonization’. Findings address a research gap by providing statistically sound evidence for associations between armed-conflicts and land-related grievances, which has rarely been demonstrated empirically. Our results also suggest that forest commons are associated with reduced armed-conflict, and simultaneously provide contributions to carbon storage and to meeting basic needs. Moreover, our forest-conflict transition models provide useful visual means to capture and relay to policymakers-the causes of forest cover-changes in a conflict-affected country. Finally, our findings imply that in dedicating their efforts to resolving land-ownership disputes, the Colombian government might uphold their international climate change commitments via reducing deforestation and hence forest based carbon emissions, while pursuing their national security objective via undermining opportunities for guerrilla groups to operate.
+</p>
+<p><strong>Full Citation:</strong> Castro-Nunez, Augusto, Ole Mertz, Alexander Buritica, Chrystian C Sosa, and Stephanie T Lee. 2017. “Land Related Grievances Shape Tropical Forest-Cover in Areas Affected by Armed-Conflict.” Applied Geography 85: 39–50.</p>
+</div>
+<p><br> </br> <!--- Agrega lineas en blanco ---></p>
+<div align="justify">
+<h3 id="identifying-socioeconomic-characteristics-defining-consumers-acceptance-for-main-organoleptic-attributes-of-an-iron-biofortified-bean-variety-in-guatemala"><i class="fas fa-chevron-circle-right"></i> <a  href="http://131.220.45.179/ojs/index.php/fsd/article/view/834"><strong>Identifying Socioeconomic Characteristics Defining Consumers’ Acceptance for Main Organoleptic Attributes of an Iron-biofortified Bean Variety in Guatemala</strong></a></h3>
+</div>
+<p>
+<i class="fas fa-user-circle"></i> Salomón Pérez, <a href="http://alexanderburitica.github.io">Alexander Buritica Casanova</a>, Adewale Oparinde, Ekin Birol, Carolina Gonzalez, Manfred Zeller. <strong>April (2017)</strong>
+</p>
+<p><img src="images/frijol.JPG" style="width:40%" align="left"/></p>
+<p><strong>Abstract:</strong></p>
+<div align="justify">
+<p>
+The success of biofortification, the process of generating new staple crops varieties with higher micronutrient content, depends on whether those biofortified cultivars are accepted by target populations. Consumer behavior economics argues that socioeconomic, cultural and biological characteristics define consumer preferences for specific product attribute. This study aims to establish which socio-demographic characteristics predict respondents’ preferences for the main sensory attributes of an iron bean variety. A home use testing approach and sensory evaluation was applied to 360 families in northwest Guatemala. We found that revealed preferences are mostly culturally formed and market related, more than influenced by socio-demographic characteristics.
+</p>
+<p><strong>Full Citation:</strong> Pérez, S., Buritica, A., Oparinde, A., Birol, E., Gonzalez, C., &amp; Zeller, M. (2017). Identifying Socioeconomic Characteristics Defining Consumers’ Acceptance for Main Organoleptic Attributes of an Iron-biofortified Bean Variety in Guatemala. International Journal on Food System Dynamics, 8(3), 222-235.</p>
+</div>
+<p><br> </br> <!--- Agrega lineas en blanco ---></p>
+<div align="justify">
+<h3 id="the-effect-of-specialty-coffee-certification-on-household-livelihood-strategies-and-specialisation"><i class="fas fa-chevron-circle-right"></i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306919215000810?casa_token=YEJUu72LUk0AAAAA:I3Afni5mqjYmieARu0iEbvtE0A9uoWv_7LnFOB-UnOodb1msDes0fRZV2u6gB--ycYJFkcNXfy0"> <strong>The effect of specialty coffee certification on household livelihood strategies and specialisation</strong></a></h3>
+</div>
+<p>
+<i class="fas fa-user-circle"></i> <a href="https://www.rockstart.com/people/wytse-vellema/">Wytse Vellema</a>, <a href="http://alexanderburitica.github.io">Alexander Buritica Casanova</a>, Carolina Gonzalez, <a href="https://www.ugent.be/bw/agricultural-economics/en/research/rde/marijke_dhaese.htm">Marijke D’Haese</a>. <strong>July (2015)</strong>
+</p>
+<p><img src="images/cafe0.JPG" style="width:50%" align="left"/></p>
+<p><strong>Abstract:</strong></p>
+<div align="justify">
+<p>
+Farm certification is rapidly becoming a sine qua non for access to specialty coffee markets. At the centre of these changes are smallholder coffee producers, responsible for 80% of global coffee production. Although rural households are known to depend on more than agricultural production alone, the literature on specialty coffee and certification has rather narrowly focused on coffee income and production. In this study, broader impacts are explicitly taken into account. Household income was decomposed into categories corresponding to specific income-generating activities and coffee income was broken down into price, yield and area effects. Results show that coffee certification encourages farmers to specialise in coffee production, increasing coffee income but not total household income, at least not in the short run. The time and effort required to attain the higher coffee income offered by certified production means farmers have to give up other activities. This substitution effect cancels out the income effect, such that there is no increase in total household income. The lack of an effect on total household income suggests the return to the additional labour effort required for certified coffee production is not higher than in other activities, questioning the benefits of certification for small-scale producers.
+</p>
+<p><strong>Full Citation:</strong> Vellema, W., Casanova, A. B., Gonzalez, C., &amp; D’Haese, M. (2015). The effect of specialty coffee certification on household livelihood strategies and specialisation. Food Policy, 57, 13-25.</p>
+</div>
+<p><br> </br> <!--- Agrega lineas en blanco ---></p>
+<div align="justify">
+<h3 id="environmental-management-and-governance-in-municipalities-of-valle-del-cauca"><i class="fas fa-chevron-circle-right"></i><a href="https://www.researchgate.net/publication/292127701_Gestion_Ambiental_y_Gobernanza_en_los_Municipios_del_Valle_del_Cauca"> <strong>Environmental Management and Governance in Municipalities of Valle del Cauca</strong></a></h3>
+</div>
+<p>
+<i class="fas fa-user-circle"></i> <a href="http://alexanderburitica.github.io">Alexander Buritica Casanova</a> and <a href="http://socioeconomia.univalle.edu.co/diplomados/17-publicaciones/43-fabio-alberto-arias-arbelaez">Fabio Arias-Arbelaez</a> . <strong>Octuber (2015)</strong>
+</p>
+<p><img src="images/pregrado.JPG" style="width:50%" align="left"/></p>
+<p><strong>Abstract:</strong></p>
+<div align="justify">
+<p>
+This research analyzes the environmental management in the municipalities of Valle del Cauca, Colombia. The study begins with an exploratory question ¿How municipalities of Valle del Cauca respond to environmental management?. Environmental reports of the Plan of Development environment by the Controller Departamental found out that environmental management is different among municipalities. Therefore, the principal research question is ¿Why municipalities of Valle del Cauca respond to environmental management unevenly?. To answer this question a descriptive methodological approach was implemented. The principal results show that from the six dimensions of governance it is found that political stability and absence of violence, government effectiveness and control of corruption can explain more or less the different response municipalities for environmental management.
+</p>
+<p><strong>Full Citation:</strong> BURITICA-CASANOVA, ALEXANDER, &amp; ARIAS-ARBELAEZ, FABIO. (2015). GESTIÓN AMBIENTAL Y GOBERNANZA EN LOS MUNICIPIOS DEL VALLE DEL CAUCA. Ambiente y Sostenibilidad, 5, 78-96.</p>
+</div>
+<p><br> </br> <!--- Agrega lineas en blanco ---></p>
 </div>
 <!------------- Panel de la izquierda ------------->
 <!------------- Panel de la derecha ------------->
 <div class="col-sm-3">
-<h4 id="eduard-f.-martínez-gonzález">Eduard F. Martínez-González</h4>
+<h4 id="alexander-buriticá-casanova">Alexander Buriticá Casanova</h4>
 <!-- Correo -->
 <p style="color:black;font-size:12px;">
-<img alt="Qries" src="images/correo.png" width=20" height="20"> <a href="mailto:ef.martinezg@uniandes.edu.co" class="email">ef.martinezg@uniandes.edu.co</a> </img>
+<img alt="Qries" src="images/correo.png" width=20" height="20"> <a href="mailto:a.buriticag@uniandes.edu.co" class="email">a.buriticag@uniandes.edu.co</a> </img>
 </p>
-<!-- Correo -->
-<p style="color:black;font-size:12px;">
-<img alt="Qries" src="images/correo.png" width=20" height="20"> <a href="mailto:edfemagonza@gmail.com" class="email">edfemagonza@gmail.com</a> </img>
-</p>
-<!-- Tel -->
-<p style="color:black;font-size:12px;">
-<img alt="Qries" src="images/tel.png" width=20" height="20"> (+571) 3394949 Ext: 2430</img>
-</p>
-<!-- Twitter -->
-<p><a href="https://twitter.com/emartigo" style="color:black;font-size:12px;"> <img alt="Qries" src="images/twitter.jpg" width=20" height="20"> <span class="citation">@emartigo</span></a></p>
+<!-- Link -->
+<p><a href="https://alexanderburitica.github.io" style="color:black;font-size:12px;"><img alt="Qries" src="images/link2.PNG" width=20" height="20"> alexanderburitica.github.io </a></p>
 <!-- GitHub -->
-<p><a href="https://github.com/eduard-martinez" style="color:black;font-size:12px;"> <img alt="Qries" src="images/github.png" width=20" height="20"> eduard-martinez</a></p>
+<p><a href="https://github.com/AlexanderBuritica" style="color:black;font-size:12px;"> <img alt="Qries" src="images/github.png" width=20" height="20"> alexanderburitica</a></p>
 </div>
 <!------------- Panel de la derecha ------------->
-<p><br> </br> <!--- Agrega lineas en blanco ---></p>
-</div>
 
 
 

@@ -1,0 +1,29 @@
+---
+pagetitle : Alexander Buriticá Casanova
+---
+
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE,
+               out.width = "75%", 
+               fig.align = "center")
+```
+
++ ### <i class="fas fa-globe-americas"></i>  **Caquetá-Colombia**
+
+
+```{r echo=FALSE, out.width="60%"}
+myimages<-list.files("images/fieldwork/", pattern = ".jpeg", full.names = TRUE)
+include_graphics(myimages)
+```
+
++ ### <i class="fas fa-globe-americas"></i>  **Nicaragua and Nariño-Colombia**
+
+```{r echo=FALSE, out.width="70%"}
+myimages<-list.files("images/fieldwork/", pattern = ".jpg", full.names = TRUE)
+include_graphics(myimages)
+```
