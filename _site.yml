@@ -19,6 +19,7 @@ navbar:
       href: fieldwork.html
     - text: "CV"
       href: https://alexanderburitica.github.io/cv/ABC_CV.pdf
+      
     - text: "Blog"
      # Menu bar
       menu:
@@ -35,5 +36,5 @@ output:
           theme: readable
           mathjax: "http://example.com/MathJax.js"
           highlight: tango
-          
+          css: css/style.css
 # Correr esto en la consola despues de cada cambio rmarkdown::render_site()

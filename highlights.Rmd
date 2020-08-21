@@ -35,4 +35,34 @@ pagetitle : Alexander Buriticá
 
 ### 2.1 **INFER Workshop on Economic Development thinking the environment**. May 2019, Coimbra, Portugal.
 
-<img src="./images/infer_logo.jpg" width = "25%"/>
+<img src="./images/infer_logo.jpg" width = "35%"/>
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+
+# 3. Others
+
+### 3.1  Coursera
+
+<img src="./images/coursera_logo.jpg" width = "45%"/>
+
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_ODS.pdf"> **Los Objetivos de Desarrollo Sostenible para las empresas** </a>.
+
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_Big.pdf"> **Introduction to Big Data** </a>.
+
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_Complex.pdf"> **Combining and Analyzing Complex Data** </a>.
+
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_Reprod.pdf"> **Reproducible Templates for Analysis and Dissemination** </a>.
+
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+
+
+
+
+
+
+
