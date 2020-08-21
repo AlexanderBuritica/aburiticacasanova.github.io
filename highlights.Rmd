@@ -55,8 +55,6 @@ pagetitle : Alexander Buriticá
 * <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Reprod.jpg"> **Reproducible Templates for Analysis and Dissemination** </a>.
 
 
-
-
 <br>  </br> <!--- Agrega lineas en blanco --->
 
 <br>  </br> <!--- Agrega lineas en blanco --->
