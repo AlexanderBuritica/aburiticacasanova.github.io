@@ -58,11 +58,3 @@ pagetitle : Alexander Buriticá
 <br>  </br> <!--- Agrega lineas en blanco --->
 
 <br>  </br> <!--- Agrega lineas en blanco --->
-
-
-
-
-
-https://alexanderburitica.github.io/cv/ABC_CV.pdf
-
-
