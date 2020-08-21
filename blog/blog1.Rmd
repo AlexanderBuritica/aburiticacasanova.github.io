@@ -46,7 +46,7 @@ Home
 <a href="https://alexanderburitica.github.io/research.html">Research</a>
 </li>
 <li>
-<a href="https://alexanderburitica.github.io/highligths.html">Highlights</a>
+<a href="https://alexanderburitica.github.io/highlights.html">Highlights</a>
 </li>
 <li>
 <a href="https://alexanderburitica.github.io/fieldwork.html">Gallery-Field Work</a>

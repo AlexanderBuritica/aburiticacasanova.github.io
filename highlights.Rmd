@@ -38,7 +38,7 @@ pagetitle : Alexander Buriticá
 <br>  </br> <!--- Agrega lineas en blanco --->
 
 
-# 3. Others
+# 3. Others :
 
 ### 3.1  Coursera
 
