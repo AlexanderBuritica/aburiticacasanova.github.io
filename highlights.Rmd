@@ -46,13 +46,13 @@ pagetitle : Alexander Buriticá
 
 <img src="./images/coursera_logo.jpg" width = "45%"/>
 
-* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_ODS.pdf"> **Los Objetivos de Desarrollo Sostenible para las empresas** </a>.
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_ODS.pdf"> **Los Objetivos de Desarrollo Sostenible para las empresas** </a>.
 
-* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_Big.pdf"> **Introduction to Big Data** </a>.
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Big.pdf"> **Introduction to Big Data** </a>.
 
-* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_Complex.pdf"> **Combining and Analyzing Complex Data** </a>.
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Complex.pdf"> **Combining and Analyzing Complex Data** </a>.
 
-* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/ABC_Coursera_Reprod.pdf"> **Reproducible Templates for Analysis and Dissemination** </a>.
+* <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Reprod.pdf"> **Reproducible Templates for Analysis and Dissemination** </a>.
 
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -63,6 +63,6 @@ pagetitle : Alexander Buriticá
 
 
 
-
+https://alexanderburitica.github.io/cv/ABC_CV.pdf
 
 
