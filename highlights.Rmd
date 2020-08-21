@@ -46,11 +46,11 @@ pagetitle : Alexander Buriticá
 
 + <i class="fas fa-medal"></i> **courses**
 
-<img src="./cursera/Coursera_ODS.jpg" width = "23%"/>
-<img src="./cursera/Coursera_Big.jpg" width = "23%"/>
+<img src="./cursera/Coursera_ODS2.png" width = "23%"/>
+<img src="./cursera/Coursera_Big2.png" width = "23%"/>
 
-<img src="./cursera/Coursera_Complex.jpg" width = "23%"/>
-<img src="./cursera/Coursera_Reprod.jpg" width = "23%"/>
+<img src="./cursera/Coursera_Complex2.png" width = "23%"/>
+<img src="./cursera/Coursera_Reprod2.png" width = "23%"/>
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
