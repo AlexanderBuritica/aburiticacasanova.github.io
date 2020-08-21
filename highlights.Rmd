@@ -13,9 +13,7 @@ pagetitle : Alexander Buriticá
 + This Award aims to promote high-quality research on emerging issues in the global coffee sector.
 + __Paper:__ Access to High Quality Coffee Markets: Possible for All?”.
 
-<center>
-<img src="./images/ICO.png" style="width:70%; border:1px solid; margin-right: 1px"/>
-</center>
+<img src="./images/ICO.png" style="width:40%; border:1px solid; margin-right: 1px"/>
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
@@ -48,11 +46,11 @@ pagetitle : Alexander Buriticá
 
 + <i class="fas fa-medal"></i> **courses**
 
-<img src="./cursera/Coursera_ODS2.jpg" width = "23%"/>
-<img src="./cursera/Coursera_Big2.jpg" width = "23%"/>
+<img src="./cursera/Coursera_ODS.jpg" width = "23%"/>
+<img src="./cursera/Coursera_Big.jpg" width = "23%"/>
 
-<img src="./cursera/Coursera_Complex2.jpg" width = "23%"/>
-<img src="./cursera/Coursera_Reprod2.jpg" width = "23%"/>
+<img src="./cursera/Coursera_Complex.jpg" width = "23%"/>
+<img src="./cursera/Coursera_Reprod.jpg" width = "23%"/>
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
