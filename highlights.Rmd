@@ -40,19 +40,21 @@ pagetitle : Alexander Buriticá
 
 # 3. Others 
 
-### 3.1  Coursera
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+## 3.1  Coursera
 
 <img src="./images/coursera_logo.jpg" width = "40%"/>
 
-+ <i class="fas fa-medal"></i> **courses**
+###  <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_ODS2.PNG"> **Los Objetivos de Desarrollo Sostenible para las empresas**</a>.
 
-<img src="./cursera/Coursera_ODS.jpg" width = "40%"/>
+###  <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Complex2.PNG"> **Combining and Analyzing Complex Data**</a>.
 
-<img src="./cursera/Coursera_Big.jpg" width = "40%"/>
+###  <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Reprod2.PNG"> **Reproducible Templates for Analysis and Dissemination**</a>.
 
-<img src="./cursera/Coursera_Complex.jpg" width = "40%"/>
+###  <i class="fas fa-medal"></i><a href="https://alexanderburitica.github.io/cursera/Coursera_Big2.PNG"> **Introduction to Big Data**</a>.
 
-<img src="./cursera/Coursera_Reprod.jpg" width = "40%"/>
+
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
