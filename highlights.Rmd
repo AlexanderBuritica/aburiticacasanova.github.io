@@ -44,7 +44,7 @@ pagetitle : Alexander Buriticá
 
 ### 3.1  Coursera
 
-<img src="./images/coursera_logo.jpg" width = "45%"/>
+<img src="./images/coursera_logo.jpg" width = "40%"/>
 
 + <i class="fas fa-medal"></i> **courses**
 
