@@ -8,7 +8,7 @@ pagetitle : Alexander Buriticá
 <div class="col-sm-6">
 
 
-# **Welcome to my website.**
+## **Welcome to my website.**
 
 <div align="justify">
 
@@ -40,7 +40,7 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 
 ### Education
 
-<p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  Phd in Economics, Expected Fall 2021.</strong></i> Universidad de los Andes </p> 
+<p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  Phd in Economics, Expected Fall 2022.</strong></i> Universidad de los Andes </p> 
 
 <p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  BSc in Economics, 2013.</strong></i> Universidad del Valle</p>
 
