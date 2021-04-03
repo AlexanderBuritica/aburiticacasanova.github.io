@@ -169,7 +169,7 @@ __Abstract:__
 #### Alexander Buriticá Casanova
 
 <!-- Correo -->
-<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> a.buriticag@uniandes.edu.co </img></p>
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> a.buritica@uniandes.edu.co </img></p>
 
 <!-- Link -->
 <a href="https://alexanderburitica.github.io" style="color:black;font-size:12px;"><img alt="Qries" src="./images/link2.png" width=20" height="20">  alexanderburitica.github.io </a> 

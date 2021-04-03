@@ -74,6 +74,12 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 
 <div class="row featurette">
 
+
+<!-- Correo -->
+<div class="col-3 col-sm-2">
+<a href="a.buritica@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=35" height="35"> </div> 
+
+
 <!-- Twitter -->
 <div class="col-3 col-sm-2">
 <a href="https://twitter.com/AlexanderBuri" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=35" height="35"> </div> 
