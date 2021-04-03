@@ -102,7 +102,7 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 
 <!-- Skype -->
 <div class="col-4 col-sm-2">
-<a href="skype:alexander.buritica.casanova" style="color:black;"><i class="fab fa-skype fa-2x"></i> </div>
+<a href="skype:alexander.buritica.casanova" style="color:black;"><i class="fab fa-skype fa-2x"></i></a> </div>
 
 </div>
 
