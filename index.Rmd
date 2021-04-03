@@ -110,9 +110,13 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 
 </div>
 
-<br></br>
+</div>
+
 <hr class="line2">
 
-<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=40" height="40"> Email: a.buritica@uniandes.edu.co </img></p>
+
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=40" height="40"> a.buritica@uniandes.edu.co </img></p>
+
+<br></br>
 
 </div> <!--- FIn del panel de la derecha --->
