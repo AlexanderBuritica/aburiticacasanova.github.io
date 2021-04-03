@@ -87,9 +87,6 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 </p>
 <hr class="line2">
 
-<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=40" height="40"> Email: a.buritica@uniandes.edu.co </img></p>
-
-<br></br>
 
 <!-- Twitter -->
 <div class="col-4 col-sm-2">
@@ -113,5 +110,8 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 
 </div>
 
+<br></br>
+
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=40" height="40"> Email: a.buritica@uniandes.edu.co </img></p>
 
 </div> <!--- FIn del panel de la derecha --->
