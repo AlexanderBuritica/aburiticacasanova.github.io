@@ -15,8 +15,6 @@ pagetitle : Alexander Buriticá
 I am a PhD student in Department of Economics at the Universidad de los Andes. My research centers on the interaction between agricultural value chains, productivity and technology adoption at both firms and farm producers levels.
 
 
-
-
 </div>
 
 
@@ -46,7 +44,6 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 <p><i class="fas fa-graduation-cap"><strong style="color:black;font-size:13px;">  BSc in Economics, 2013.</strong></i> Universidad del Valle</p>
 
 </div>
-
 
 
 </div> <!--- FIn del panel de la derecha --->
@@ -79,7 +76,6 @@ I am a PhD student in Department of Economics at the Universidad de los Andes. M
 <div class="row featurette">
 
 <hr size="8" width="90%" color="black">  
-
 
 
 <p>
